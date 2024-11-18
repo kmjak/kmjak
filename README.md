@@ -1,10 +1,4 @@
 <div align="center">
-  
-# 👋 Hi, I'm Kmjak
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](your-zenn-url)
-[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](your-qiita-url)
 
 ## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,4 +26,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmjak&theme=tokyonight)
 [![kmjak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kmjak&theme=react-dark&bg_color=000000&color=00E676&line=00E676&point=FFFFFF&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](your-zenn-url)
+[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](your-qiita-url)
 </div>
