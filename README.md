@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kmjak&theme=tokyonight&column=7&no-frame=true&margin-w=15"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=kmjak&theme=tokyonight&column=8&no-frame=true&margin-w=15"/>
   </a>
 </p>
 
