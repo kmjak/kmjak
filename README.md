@@ -47,15 +47,12 @@ Feel free to explore my repositories and connect with me!
 ## 🌟 Badges
 
 [![GitHub](https://img.shields.io/badge/GitHub-kmjak-blue?logo=github)](https://github.com/kmjak)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)  
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=kmjak.kmjak)  
-[![Codewars](https://www.codewars.com/users/kmjak/badges/small)](https://www.codewars.com/users/kmjak)
+[![AtCoder](https://img.shields.io/badge/GitHub-kmjak-blue?logo=AtCoder)][https://github.com/kmjak)]
 
 ---
 
 ## 🌈 Let's Connect!
 
-[![Twitter](https://img.shields.io/twitter/follow/kmjak?style=social)](https://twitter.com/your_twitter_username)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-link/)  
 [![Mail](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your_email@example.com)
 
