@@ -1,61 +1,73 @@
-# 🌟 Welcome to My GitHub Profile! 🌟
+<!-- ヘッダーイメージ -->
+<img src="https://your-header-image-url.com/header.png" alt="Header Image" width="100%" />
 
-Hello! I'm **kmjak**, a passionate developer who loves coding, solving problems, and creating impactful projects. 🚀  
-Feel free to explore my repositories and connect with me!
+<!-- 自己紹介 -->
+## こんにちは！👋
 
----
-
-## 🖼️ About Me
-
-- 💻 **Tech Stack**: JavaScript, TypeScript, React, Next.js, Python, Flask, PostgreSQL
-- 🌱 **Currently Learning**: Machine Learning, Clean Architecture, and AWS Cognito  
-- 🎯 **Hobbies**: Competitive Programming, Building Web Applications, and Exploring Open Source  
+はじめまして、kmjakです。ソフトウェアエンジニアとして、主に [Python](https://www.python.org/) と [JavaScript](https://developer.mozilla.org/ja/docs/Web/JavaScript) を使用して開発を行っています。新しい技術の習得とプロジェクトへの挑戦が大好きです。
 
 ---
 
-## 📊 GitHub Stats & Achievements  
+<!-- GitHub Stats -->
+<div align="center">
+  <a href="https://github.com/kmjak">
+    <img src="https://github-readme-stats.vercel.app/api?username=kmjak&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/kmjak">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmjak&layout=donut&theme=gruvbox" alt="Top Languages" />
+  </a>
+</div>
 
-### 🏆 Trophies
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=kmjak&column=5&theme=gruvbox&no-frame=false&rank=AA"/>
-</a>
-
-### 🌐 Language Usage
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmjak&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🚀 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmjak&show_icons=true&theme=gruvbox&count_private=true)
-
----
-[![GitHub Streak](https://streak-stats.demolab.com?user=kmjak&theme=gruvbox)](https://git.io/streak-stats)
----
-[![Tech Stack](https://img.shields.io/badge/TechStack-React%20%7C%20Next.js-blue)](https://your-portfolio-link.com)
----
-## 📌 Featured Projects  
-
-### 🔥 [Typing Web Game](https://github.com/kmjak/typing-web-game)
-- **Description**: A fun and interactive typing game built with Next.js and TypeScript.  
-- **Highlights**: Includes custom hooks, clean architecture, and user-friendly UI.  
-- **Tech Stack**: Next.js 14, PostgreSQL, Docker  
-
-### 🌟 [Python Flask App](https://github.com/kmjak/python-flask-app)
-- **Description**: A Flask-based web app showcasing REST API functionality.  
-- **Tech Stack**: Flask, PostgreSQL, Docker  
+<!-- トロフィー -->
+<div align="center">
+  <a href="https://github.com/kmjak">
+    <img src="https://github-profile-trophy.vercel.app/?username=kmjak&column=5&theme=gruvbox&no-frame=false&rank=AA" alt="GitHub Profile Trophy" />
+  </a>
+</div>
 
 ---
 
-## 🌟 Badges
+<!-- 使用技術バッジ -->
+### スキル & テクノロジー
 
-[![GitHub](https://img.shields.io/badge/GitHub-kmjak-blue?logo=github)](https://github.com/kmjak)  
-[![AtCoder](https://img.shields.io/badge/GitHub-kmjak-blue?logo=AtCoder)][https://github.com/kmjak)]
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
 
 ---
 
-## 🌈 Let's Connect!
+<!-- SNSリンク -->
+### SNS & その他
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-link/)  
-[![Mail](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your_email@example.com)
+<div>
+  <a href="https://twitter.com/your_twitter_handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/your_linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
+</div>
 
 ---
 
-✨ **Thanks for stopping by! Let's build something amazing together!** ✨
+<!-- プロジェクトセクション -->
+### 🛠️ 主なプロジェクト
+
+- [**プロジェクト名1**](https://github.com/kmjak/project1) - 簡単な説明。
+- [**プロジェクト名2**](https://github.com/kmjak/project2) - 簡単な説明。
+- [**プロジェクト名3**](https://github.com/kmjak/project3) - 簡単な説明。
+
+---
+
+<!-- お気に入りの技術 -->
+### 🔥 最近の活動
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kmjak&theme=gruvbox)
+
+---
+
+<!-- フッター -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kmjak&color=brightgreen" alt="Profile views">
+</p>
