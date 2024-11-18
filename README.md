@@ -3,7 +3,7 @@
 # 👋 Welcome to my GitHub
 
 [![Twitter](https://img.shields.io/badge/Twitter-58A6FF?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/koron__c)
-[![AtCoder](https://img.shields.io/badge/AtCoder-kmjak-58A6FF?style=for-the-badge&logo=codeforces)](https://atcoder.jp/users/ApKr)
+[![AtCoder](https://img.shields.io/badge/AtCoder-AtCoder-58A6FF?style=for-the-badge)](https://atcoder.jp/users/ApKr)
 
 ## 📈 Stats & Activities
 <p align="center">
