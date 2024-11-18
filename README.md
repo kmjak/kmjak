@@ -27,7 +27,10 @@ Feel free to explore my repositories and connect with me!
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmjak&show_icons=true&theme=gruvbox&count_private=true)
 
 ---
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=kmjak&theme=gruvbox)](https://git.io/streak-stats)
+---
+[![Tech Stack](https://img.shields.io/badge/TechStack-React%20%7C%20Next.js-blue)](https://your-portfolio-link.com)
+---
 ## 📌 Featured Projects  
 
 ### 🔥 [Typing Web Game](https://github.com/kmjak/typing-web-game)
