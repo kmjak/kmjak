@@ -11,10 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmjak&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmjak&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF" alt="GitHub Streak"/>
-</p>
-
 ## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kmjak&theme=algolia&column=4&no-frame=true&margin-w=15&margin-h=15&bg_color=0D1117"/>
