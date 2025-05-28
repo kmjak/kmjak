@@ -13,10 +13,9 @@
 ## 📈 Contribution Graph
 [![kmjak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kmjak&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</div>
 ## Prefix
 - chore: 環境構築、設定ファイルの変更、ライブラリアップデートなど
 - feat: 新機能の追加
 - refactor: コード構造を改善する変更
 - fix: 意図しない不具合やバグの修正
-
-</div>
